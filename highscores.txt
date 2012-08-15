@@ -1,0 +1,6 @@
+Stefan:2000
+Bastiaan:1450
+Marthijs:1234
+Alexander:876
+Bas:456
+Wouter:42
