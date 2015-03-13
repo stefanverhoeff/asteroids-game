@@ -6,7 +6,7 @@ Welcome to this nice little game for you. I made it for a school research projec
 
 It works pretty simple, start it and find help in the menu.
 
-The source code is included in this release under the GNU General Public Licence. Licence.txt should be included with this relrease. Have fun hacking im curious what you can make out of it.
+The source code is included in this release under the GNU General Public Licence. Licence.txt should be included with this release. Have fun hacking I'm curious what you can make out of it.
 
 --
 11 March 2005
